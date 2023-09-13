@@ -1,3 +1,7 @@
 .container {
-    background-color: aquamarine;
-}
+    margin: 0 5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
