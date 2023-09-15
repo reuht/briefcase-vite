@@ -4,6 +4,7 @@
     background-color: black;
     display: flex;
     justify-content: space-between;
+    border-bottom: 0.7px #f9f9f9 solid;
     
 }
 

@@ -1,0 +1,17 @@
+.about{
+    background-color: black;
+    width: 100%;
+    height: 450px;
+}
+
+.about_content{
+    margin: 0 5rem;
+    display: flex;
+}
+
+.about_location_text, 
+.about_date__text, 
+.about_description__title {
+    color: #fff;
+}
+
