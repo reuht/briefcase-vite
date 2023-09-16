@@ -1,32 +1,35 @@
 .about{
-    background-color: black;
     width: 100%;
-    height: 450px;
     display: flex;
     justify-content: center;
-    align-items: center;
     margin-bottom: 1px #f9f9f9 solid;
-}
-.about_content{
-    margin: 0 5rem;
-    display: flex;
     margin-top: 5rem;
+}
+
+.about_content{
+    display: flex;
+    margin: 0 5rem;
 }
 
 
 .about_wrapper{
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: space-between;
 }
 
 
 .about_description{
-    
+    width: 50%;
 }
 
 .about_description__content{
     margin: 0 5rem;
+}
+
+.about_location,
+ .about_date {
+    width: 100%;
 }
 
 .about_location_text, 
