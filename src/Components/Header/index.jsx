@@ -12,22 +12,22 @@ const Header = () => (
         <ul className={style.navegation__list}>
           <li className={style.navegation__list_item}>
             <a className={style.navegation__list_anchor} href="/home">
-              Home
+              Quien soy
             </a>
           </li>
           <li className={style.navegation__list_item}>
-            <a className={style.navegation__list_anchor} href="/about">
-              About
+            <a className={style.navegation__list_anchor} href="/projet">
+              Project
+            </a>
+          </li>
+          <li className={style.navegation__list_item}>
+            <a className={style.navegation__list_anchor} href="/skills">
+              Habilidades
             </a>
           </li>
           <li className={style.navegation__list_item}>
             <a className={style.navegation__list_anchor} href="/blog">
-              Blog
-            </a>
-          </li>
-          <li className={style.navegation__list_item}>
-            <a className={style.navegation__list_anchor} href="/projects">
-              Projects
+              blog
             </a>
           </li>
           <li className={style.navegation__list_item}>

@@ -2,16 +2,40 @@
     background-color: black;
     width: 100%;
     height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1px #f9f9f9 solid;
 }
-
 .about_content{
     margin: 0 5rem;
     display: flex;
+    margin-top: 5rem;
+}
+
+
+.about_wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.about_description{
+    
+}
+
+.about_description__content{
+    margin: 0 5rem;
 }
 
 .about_location_text, 
 .about_date__text, 
+.about_description__title,
+.about_description__text,
 .about_description__title {
     color: #fff;
+    margin: 0;
+    font-size: 24px;
 }
 
