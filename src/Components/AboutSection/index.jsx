@@ -1,5 +1,6 @@
 import React from "react"
 import style from "./style.module.css";
+import JosephImg from "../../assets/joseph.svg"; 
 
 const AboutSection = () => {
 
@@ -14,8 +15,11 @@ const AboutSection = () => {
                     </div>
                     <div className={style.about_date}>
                         <span className={style.about_date__text}>
-                            8 de Agosto 1996
+                            August 8, 1996
                         </span>
+                        <div className={style.about_image}>
+                            <img src={JosephImg} alt="joseph.svg" />
+                        </div>
                     </div>
                 </div>
                 <div className={style.about_description}>
