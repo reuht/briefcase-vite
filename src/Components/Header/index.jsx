@@ -14,7 +14,7 @@ const Header = () => (
           <ul className={style.navegation__list}>
             <li className={style.navegation__list_item}>
               <Link className={style.navegation__list_anchor} to="/">
-               who I am ?
+               Who I am?
               </Link>
             </li>
             <li className={style.navegation__list_item}>

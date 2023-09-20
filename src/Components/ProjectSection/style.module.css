@@ -1,0 +1,29 @@
+.projectSection_content {
+    height: 400px;
+    padding: 0 5rem;
+}
+
+.projectSection_content__title {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 2.5rem;
+    margin-top: 3rem;
+}
+
+.projectSection_title {
+    color: white;
+    margin: 1rem;
+}
+
+.projectSection_content__projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2.5rem;
+}
+
+.projectSection_projects {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1.5rem;
+}

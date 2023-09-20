@@ -15,7 +15,7 @@ const AboutSection = () => {
                     </div>
                     <div className={style.about_date}>
                         <span className={style.about_date__text}>
-                            August 8, 1996
+                            August 8, 1996.
                         </span>
                         <div className={style.about_image}>
                             <img src={JosephImg} alt="joseph.svg" />
@@ -24,7 +24,7 @@ const AboutSection = () => {
                 </div>
                 <div className={style.about_description}>
                     <h2 className={style.about_description__title}>
-                        About Me
+                        About Me.
                     </h2>
                     <p className={style.about_description__text}>
                         Lorem ipsum dolor sit amet consectetur

@@ -16,6 +16,7 @@
     justify-content: start;
     align-items: center;
     line-height: 1.2;
+
 }
 
 .banner_content__subtitle{
@@ -30,6 +31,7 @@
     margin: 0;
     color: white;
     font-size: 27vw;
+    width: 100%;
 }
 
 .banner_subtitle__text{
